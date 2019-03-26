@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-26T22:29:01+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My first site</title><subtitle>I tried to make my own site, and look at this! I'm sure, you'll like it!</subtitle><entry><title type="html">My resume</title><link href="http://localhost:4000/jekyll/update/2019/03/26/my-resume.html" rel="alternate" type="text/html" title="My resume" /><published>2019-03-26T11:41:47+03:00</published><updated>2019-03-26T11:41:47+03:00</updated><id>http://localhost:4000/jekyll/update/2019/03/26/my-resume</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/03/26/my-resume.html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/DpmfOwgXoAEr9Zr.jpg&quot; alt=&quot;Simple true&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-26T22:56:39+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My first site</title><subtitle>I tried to make my own site, and look at this! I'm sure, you'll like it!</subtitle><entry><title type="html">My Resume</title><link href="http://localhost:4000/2019/03/26/my-resume.html" rel="alternate" type="text/html" title="My Resume" /><published>2019-03-26T00:00:00+03:00</published><updated>2019-03-26T00:00:00+03:00</updated><id>http://localhost:4000/2019/03/26/my-resume</id><content type="html" xml:base="http://localhost:4000/2019/03/26/my-resume.html">&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/DpmfOwgXoAEr9Zr.jpg&quot; alt=&quot;Simple true&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;my-resume&quot;&gt;My resume&lt;/h1&gt;
+&lt;h2 id=&quot;my-resume&quot;&gt;My resume&lt;/h2&gt;
 
-&lt;h2 id=&quot;i-want-to-work-sometimes&quot;&gt;I want to work! Sometimes.&lt;/h2&gt;
+&lt;h1 id=&quot;i-want-to-work-sometimes&quot;&gt;I want to work! Sometimes.&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;This is my strengths:&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;professional-scills&quot;&gt;Professional scills:&lt;/h2&gt;
+&lt;h1 id=&quot;professional-scills&quot;&gt;Professional scills:&lt;/h1&gt;
 
 &lt;p&gt;I can wor with MicrosoftOffice, MathCard, Far Manager, FoxPro, QtCreator, VisualStudio, CMake, Git, GitHub,  Mercurial, TortouseGit,TortouseHG.&lt;/p&gt;
 
-&lt;h2 id=&quot;additional-information&quot;&gt;Additional information:&lt;/h2&gt;
+&lt;h1 id=&quot;additional-information&quot;&gt;Additional information:&lt;/h1&gt;
 
 &lt;p&gt;I have a driver’s license, experience with office equipment, canspeak technical English.
 Possible travel.&lt;/p&gt;
 
-&lt;h2 id=&quot;personal-information&quot;&gt;Personal information:&lt;/h2&gt;
+&lt;h1 id=&quot;personal-information&quot;&gt;Personal information:&lt;/h1&gt;
 
 &lt;p&gt;Learning ability, readiness for professional self-improvement, responsibility, interpersonal skills, independence, diligence.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">About Me</title><link href="http://localhost:4000/2019/03/26/about-me.html" rel="alternate" type="text/html" title="About Me" /><published>2019-03-26T00:00:00+03:00</published><updated>2019-03-26T00:00:00+03:00</updated><id>http://localhost:4000/2019/03/26/about-me</id><content type="html" xml:base="http://localhost:4000/2019/03/26/about-me.html">&lt;p&gt;&lt;img src=&quot;https://pp.userapi.com/c851332/v851332232/df861/VWC7LWnkGKo.jpg&quot; alt=&quot;&quot; /&gt;
 About me
-========&lt;/p&gt;
+——&lt;/p&gt;
 
-&lt;h2 id=&quot;hello-my-name-is-alexandra-lebedeva&quot;&gt;Hello! My name is Alexandra Lebedeva&lt;/h2&gt;
+&lt;h1 id=&quot;hello-my-name-is-alexandra-lebedeva&quot;&gt;Hello! My name is Alexandra Lebedeva&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;This is my first try to make my own site!&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://vk.com/mrs_swan&quot;&gt;Here you can tolk to me :)&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">About me ========</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/02/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-02-27T11:41:47+03:00</published><updated>2019-02-27T11:41:47+03:00</updated><id>http://localhost:4000/jekyll/update/2019/02/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/02/27/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vk.com/mrs_swan&quot;&gt;Here you can talk to me :)&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">About me ——</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/02/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-02-27T11:41:47+03:00</published><updated>2019-02-27T11:41:47+03:00</updated><id>http://localhost:4000/jekyll/update/2019/02/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/02/27/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
