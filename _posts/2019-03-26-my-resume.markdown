@@ -4,19 +4,41 @@ title:  "My resume"
 date:   2019-03-26 11:41:47 +0300
 categories: jekyll update
 ---
+
 ![Simple true](https://pbs.twimg.com/media/DpmfOwgXoAEr9Zr.jpg)
-#My resume#
-##I want to work! Sometimes.##
+
+My resume
+=========
+
+
+I want to work! Sometimes.
+--------------------------
+
+
 _This is my strengths:_
-##Professional scills:##
+
+
+Professional scills:
+--------------------
+
+
 I can wor with MicrosoftOffice, MathCard, Far Manager, FoxPro, QtCreator, VisualStudio, CMake, Git, GitHub,  Mercurial, TortouseGit,TortouseHG.
 
-##Additional information:##
+Additional information:
+----------------------
+
+
 I have a driver's license, experience with office equipment, canspeak technical English.
 Possible travel.
 
-##Personal information:##
+
+Personal information:
+--------------------
+
+
 Learning ability, readiness for professional self-improvement, responsibility, interpersonal skills, independence, diligence.
+
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
