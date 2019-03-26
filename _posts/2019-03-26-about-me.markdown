@@ -1,0 +1,15 @@
+﻿---
+layout: post
+title:  "About me"
+date:   2019-03-26 11:41:47 +0300
+categories: jekyll update
+---
+![](https://pp.userapi.com/c851332/v851332232/df861/VWC7LWnkGKo.jpg)
+#About me#
+##Hello! My name is Alexandra Lebedeva##
+_This is my first try to make my own site!_
+[Here you can tolk to me:](https://vk.com/mrs_swan)
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
